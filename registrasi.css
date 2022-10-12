@@ -1,0 +1,55 @@
+*{
+    background-color: aliceblue;
+}
+h3{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: sandybrown ;
+    margin-left: 450px;
+}
+#nama{
+    width: 70% ;
+    height: 40px ;
+    border: solid 1px #bec6d0 ;
+    float: left;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+  
+}
+#alamat{
+    width: 70% ;
+    height: 40px ;
+    border: solid 1px #bec6d0 ;
+    float: left;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+   
+ 
+}
+#notelepon{
+    width: 70% ;
+    height: 40px ;
+    border: solid 1px #bec6d0 ;
+    float: left;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+ 
+}
+
+#tombol{
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px 8px 130px;
+    background-color:  #1F96FF ;
+    border: solid 1px #bec6d0 ;
+    margin-left: 450px;
+    
+
+}
